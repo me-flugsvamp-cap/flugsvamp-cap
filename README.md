@@ -21,3 +21,5 @@ At the Flugsvamp 4.0 shop, you will find a wide selection of illegal products, w
 It is crucial to acknowledge the risks involved in participating in such markets, including legal and security implications. Always prioritize your safety and take the necessary precautions to protect your identity and data while navigating these platforms, paying particular attention to security protocols like CAPTCHAs to ensure legitimate access.
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/skins/part.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/skins/footer.webp" alt="image" style="max-width: 100%;"></a>
+
+Update: Fixed broken link, now accessible and live
