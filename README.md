@@ -22,4 +22,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/skins/part.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/skins/footer.webp" alt="image" style="max-width: 100%;"></a>
 
-Update: Fixed broken link, now accessible and live
+
+
+Update: url is now operational
