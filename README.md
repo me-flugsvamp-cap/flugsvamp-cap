@@ -24,4 +24,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 
 
-Update: url is now operational
+
+
+Update: url is now available online
