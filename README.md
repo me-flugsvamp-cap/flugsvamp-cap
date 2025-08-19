@@ -30,4 +30,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 
 
-Update:  Wednesday 13 August 2025 Fixed broken link, now operational
+
+
+Update:  08/19/2025
