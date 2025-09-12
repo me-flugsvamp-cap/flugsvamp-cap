@@ -36,4 +36,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 
 
-Update:  09/12/2025 Link is now responsive and operational
+
+
+Update:  12 September 2025
