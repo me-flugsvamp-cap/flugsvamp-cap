@@ -34,4 +34,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 
 
-Update:  23 August 2025 Invalid URLs fixed
+
+
+Update:  09/12/2025 Link is now responsive and operational
