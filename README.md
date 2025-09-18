@@ -38,4 +38,6 @@ It is crucial to acknowledge the risks involved in participating in such markets
 
 
 
-Update:  12 September 2025
+
+
+Update:  09/18/2025 TOR links fixed
